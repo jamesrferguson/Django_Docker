@@ -16,4 +16,4 @@ Docker image for creating a Django project with a Postgres db.
           }
       } 
      ```
-5. Run project `docker-compose run web django-admin.py startproject <<PROJECT_NAME>> .` 
+5. Run project `docker-compose up` 
